@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T15:56:31.563Z",
+  "generated": "2026-11-01T15:56:31.804Z",
   "app": {
     "version": "0.2.0",
     "published": "2026-11-01T15:51:58.570Z",
@@ -15,6 +15,33 @@
     }
   },
   "packages": [
+    {
+      "id": "ir.northvector.p2pfiles",
+      "kind": "plugin",
+      "name": "Direct files",
+      "author": "TeamSpeak Desktop examples",
+      "version": "1.0.0",
+      "apiVersion": "1.2",
+      "minApp": "",
+      "summary": "Send files of any size directly, end-to-end encrypted",
+      "description": "Send files of any size straight to other TeamSpeak Desktop users, end-to-end encrypted, without the server's upload limits or permissions.",
+      "changelog": "",
+      "permissions": [
+        "ui.menus",
+        "ui.panels",
+        "network.p2p"
+      ],
+      "tags": [
+        "files",
+        "p2p"
+      ],
+      "icon": "",
+      "screenshots": [],
+      "file": "packages/ir.northvector.p2pfiles/ir.northvector.p2pfiles-1.0.0.tar.gz",
+      "sha256": "49772a94eec2467673bfdc8b6b2ff6e5394b2efe473d9c372242f5a927a16b77",
+      "size": 3790,
+      "updated": "2026-11-01T15:56:31.802Z"
+    },
     {
       "id": "omega.screenshare",
       "kind": "plugin",
