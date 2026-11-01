@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T21:23:31.589Z",
+  "generated": "2026-11-01T22:00:22.782Z",
   "app": {
-    "version": "0.2.8",
-    "published": "2026-11-01T21:23:05.897Z",
-    "notes": "- play imported sounds in place instead of copying them to app data",
+    "version": "0.2.9",
+    "published": "2026-11-01T22:00:22.772Z",
+    "notes": "- improve image sizing and scaling in avatar display",
     "minVersion": "0.2.8",
     "windows": {
-      "file": "app/0.2.8/teamspeak-desktop.exe.gz",
+      "file": "app/0.2.9/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.2.8/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.2.9/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "f68e324d866f71d9d3748a74b088631b0e610b545e57978ae52ecb6d1f9b88f9",
-      "size": 16029300
+      "sha256": "4bb3454d842eaeebdbdb761e8e28c0ba8c5076844b3968897756bcb79403850a",
+      "size": 16026154
     }
   },
   "packages": [
