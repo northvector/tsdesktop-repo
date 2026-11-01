@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T15:56:31.804Z",
+  "generated": "2026-11-01T15:56:32.042Z",
   "app": {
     "version": "0.2.0",
     "published": "2026-11-01T15:51:58.570Z",
@@ -41,6 +41,33 @@
       "sha256": "49772a94eec2467673bfdc8b6b2ff6e5394b2efe473d9c372242f5a927a16b77",
       "size": 3790,
       "updated": "2026-11-01T15:56:31.802Z"
+    },
+    {
+      "id": "ir.northvector.p2pchat",
+      "kind": "plugin",
+      "name": "Private chat",
+      "author": "TeamSpeak Desktop examples",
+      "version": "1.0.0",
+      "apiVersion": "1.2",
+      "minApp": "",
+      "summary": "Chat directly, end-to-end encrypted",
+      "description": "Chat with other TeamSpeak Desktop users straight between you, end-to-end encrypted: the TeamSpeak server never sees the messages (unless no direct route exists, then they go through it, marked as such).",
+      "changelog": "",
+      "permissions": [
+        "ui.menus",
+        "ui.panels",
+        "network.p2p"
+      ],
+      "tags": [
+        "chat",
+        "p2p"
+      ],
+      "icon": "",
+      "screenshots": [],
+      "file": "packages/ir.northvector.p2pchat/ir.northvector.p2pchat-1.0.0.tar.gz",
+      "sha256": "79b744d9372f0cf7c6af10669b985237ffe2c34b31f6fcaba185295559c22aed",
+      "size": 2695,
+      "updated": "2026-11-01T15:56:32.041Z"
     },
     {
       "id": "omega.screenshare",
