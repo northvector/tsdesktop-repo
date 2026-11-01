@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T16:20:24.373Z",
+  "generated": "2026-11-01T16:27:54.194Z",
   "app": {
     "version": "0.2.1",
     "published": "2026-11-01T16:20:24.361Z",
@@ -20,7 +20,7 @@
       "kind": "plugin",
       "name": "Direct files",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "apiVersion": "1.2",
       "minApp": "",
       "summary": "Send files of any size directly, end-to-end encrypted",
@@ -35,19 +35,19 @@
         "files",
         "p2p"
       ],
-      "icon": "",
+      "icon": "media/ir.northvector.p2pfiles/icon.png",
       "screenshots": [],
-      "file": "packages/ir.northvector.p2pfiles/ir.northvector.p2pfiles-1.0.0.tar.gz",
-      "sha256": "49772a94eec2467673bfdc8b6b2ff6e5394b2efe473d9c372242f5a927a16b77",
-      "size": 3790,
-      "updated": "2026-11-01T15:56:31.802Z"
+      "file": "packages/ir.northvector.p2pfiles/ir.northvector.p2pfiles-1.0.1.tar.gz",
+      "sha256": "68f82bae94b78c08ea04872477b969ce2af2130d8737513c615e65b6df12eaea",
+      "size": 3823,
+      "updated": "2026-11-01T16:27:53.965Z"
     },
     {
       "id": "ir.northvector.p2pchat",
       "kind": "plugin",
       "name": "Private chat",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "apiVersion": "1.2",
       "minApp": "",
       "summary": "Chat directly, end-to-end encrypted",
@@ -62,19 +62,19 @@
         "chat",
         "p2p"
       ],
-      "icon": "",
+      "icon": "media/ir.northvector.p2pchat/icon.png",
       "screenshots": [],
-      "file": "packages/ir.northvector.p2pchat/ir.northvector.p2pchat-1.0.0.tar.gz",
-      "sha256": "79b744d9372f0cf7c6af10669b985237ffe2c34b31f6fcaba185295559c22aed",
-      "size": 2695,
-      "updated": "2026-11-01T15:56:32.041Z"
+      "file": "packages/ir.northvector.p2pchat/ir.northvector.p2pchat-1.0.1.tar.gz",
+      "sha256": "18de13b2f0e792f66fdaf3a36e0db7e1629d164d100d6972a5982cb44842d326",
+      "size": 2717,
+      "updated": "2026-11-01T16:27:53.899Z"
     },
     {
       "id": "omega.screenshare",
       "kind": "plugin",
       "name": "Screen Share",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "apiVersion": "1.1",
       "minApp": "",
       "summary": "Share your screen or camera with your channel",
@@ -91,19 +91,19 @@
         "video",
         "screenshare"
       ],
-      "icon": "",
+      "icon": "media/omega.screenshare/icon.png",
       "screenshots": [],
-      "file": "packages/omega.screenshare/omega.screenshare-1.3.0.tar.gz",
-      "sha256": "c67eef5315dac7857d8d5c60dd98bf01921bb099b2f550b31ee2520e4c6fe25d",
-      "size": 4893,
-      "updated": "2026-11-01T15:56:31.091Z"
+      "file": "packages/omega.screenshare/omega.screenshare-1.3.1.tar.gz",
+      "sha256": "5e74b2a438263edc2cb81428da3b68d38989808e42eb5ae55a9bac308402ae81",
+      "size": 4918,
+      "updated": "2026-11-01T16:27:54.033Z"
     },
     {
       "id": "ir.northvector.soundboard",
       "kind": "plugin",
       "name": "Soundboard",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "apiVersion": "1.0",
       "minApp": "",
       "summary": "Play sounds into your channel",
@@ -122,19 +122,19 @@
         "audio",
         "soundboard"
       ],
-      "icon": "",
+      "icon": "media/ir.northvector.soundboard/icon.png",
       "screenshots": [],
-      "file": "packages/ir.northvector.soundboard/ir.northvector.soundboard-1.3.0.tar.gz",
-      "sha256": "e7acfec19ef4740e120bcf183dd5f15b06c5cdf6f4ead307ba2e94f9cae3bfbb",
-      "size": 4424,
-      "updated": "2026-11-01T15:56:31.319Z"
+      "file": "packages/ir.northvector.soundboard/ir.northvector.soundboard-1.3.1.tar.gz",
+      "sha256": "6d8392b475c06bd825054492875eb18e13e778fea5534e717f1b84a12d3e367c",
+      "size": 4456,
+      "updated": "2026-11-01T16:27:54.107Z"
     },
     {
       "id": "ir.northvector.watchtogether",
       "kind": "plugin",
       "name": "Watch together",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "apiVersion": "1.3",
       "minApp": "",
       "summary": "Watch videos with your channel, in sync",
@@ -150,12 +150,12 @@
         "video",
         "social"
       ],
-      "icon": "",
+      "icon": "media/ir.northvector.watchtogether/icon.png",
       "screenshots": [],
-      "file": "packages/ir.northvector.watchtogether/ir.northvector.watchtogether-1.1.0.tar.gz",
-      "sha256": "77a1960a9c75b9fb1619d13a05976a7b4b49f1c26a47820ab789053e874a4bf6",
-      "size": 8921,
-      "updated": "2026-11-01T15:56:31.562Z"
+      "file": "packages/ir.northvector.watchtogether/ir.northvector.watchtogether-1.1.1.tar.gz",
+      "sha256": "bbc30026b64b4cdf4d34f1108eecb62797c98b7e22e46975e2689389381b355d",
+      "size": 8952,
+      "updated": "2026-11-01T16:27:54.194Z"
     }
   ]
 }
