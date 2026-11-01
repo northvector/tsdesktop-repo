@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T21:17:35.239Z",
+  "generated": "2026-11-01T21:23:05.908Z",
   "app": {
-    "version": "0.2.7",
-    "published": "2026-11-01T21:17:35.228Z",
-    "notes": "- marketplace banners for plugins, installer, myts, plugin version bumps",
-    "minVersion": "0.2.6",
+    "version": "0.2.8",
+    "published": "2026-11-01T21:23:05.897Z",
+    "notes": "- play imported sounds in place instead of copying them to app data",
+    "minVersion": "0.2.8",
     "windows": {
-      "file": "app/0.2.7/teamspeak-desktop.exe.gz",
+      "file": "app/0.2.8/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.2.7/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.2.8/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "e9e0ec774702dab3c524ce60635e41c4cf0a8e6f5cf74c77c6db3522e724461d",
-      "size": 16013855
+      "sha256": "f68e324d866f71d9d3748a74b088631b0e610b545e57978ae52ecb6d1f9b88f9",
+      "size": 16029300
     }
   },
   "packages": [
