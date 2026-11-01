@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T18:42:40.497Z",
+  "generated": "2026-11-01T18:59:37.653Z",
   "app": {
-    "version": "0.2.4",
-    "published": "2026-11-01T18:42:10.240Z",
-    "notes": "- room timeline sync with lag compensation and fullscreen overlay controls; add classic-ts3 theme example\n- offer to download ffmpeg when it's missing",
-    "minVersion": "0.2.4",
+    "version": "0.2.5",
+    "published": "2026-11-01T18:59:37.643Z",
+    "notes": "- smooth playback, reachable fullscreen controls, working volume popup",
+    "minVersion": "0.2.5",
     "windows": {
-      "file": "app/0.2.4/teamspeak-desktop.exe.gz",
+      "file": "app/0.2.5/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.2.4/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.2.5/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "b7ce11c2e05f581a5f6e1a43ee5f4dfe678f1f3d7c301ce0e2bd325c2e08c6e9",
-      "size": 15939075
+      "sha256": "b91d85cb53eee663faf2136db711de8535aaaaa73740d9fac03cbc3c991953f8",
+      "size": 15940418
     }
   },
   "packages": [
