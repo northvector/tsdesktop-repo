@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T18:59:37.653Z",
+  "generated": "2026-11-01T19:00:10.139Z",
   "app": {
     "version": "0.2.5",
     "published": "2026-11-01T18:59:37.643Z",
@@ -161,7 +161,7 @@
       "kind": "plugin",
       "name": "Watch together",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "apiVersion": "1.3",
       "minApp": "0.2.4",
       "summary": "Watch videos with your channel, in sync",
@@ -179,10 +179,10 @@
       ],
       "icon": "media/ir.northvector.watchtogether/icon.png",
       "screenshots": [],
-      "file": "packages/ir.northvector.watchtogether/ir.northvector.watchtogether-1.2.0.tar.gz",
-      "sha256": "eb9a15fbfcb40d077fa37d7327da9cae7ff8728e2d34c3764e752e8e4e1de3f3",
-      "size": 10136,
-      "updated": "2026-11-01T18:42:40.496Z"
+      "file": "packages/ir.northvector.watchtogether/ir.northvector.watchtogether-1.2.1.tar.gz",
+      "sha256": "4755802cb90e8be0dad13d89778c8de093009a3c6dfc6d09e542866c9b0ee097",
+      "size": 10172,
+      "updated": "2026-11-01T19:00:10.139Z"
     }
   ]
 }
