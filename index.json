@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T15:56:31.091Z",
+  "generated": "2026-11-01T15:56:31.320Z",
   "app": {
     "version": "0.2.0",
     "published": "2026-11-01T15:51:58.570Z",
@@ -43,6 +43,37 @@
       "sha256": "c67eef5315dac7857d8d5c60dd98bf01921bb099b2f550b31ee2520e4c6fe25d",
       "size": 4893,
       "updated": "2026-11-01T15:56:31.091Z"
+    },
+    {
+      "id": "ir.northvector.soundboard",
+      "kind": "plugin",
+      "name": "Soundboard",
+      "author": "TeamSpeak Desktop examples",
+      "version": "1.3.0",
+      "apiVersion": "1.0",
+      "minApp": "",
+      "summary": "Play sounds into your channel",
+      "description": "Play sounds to your channel with a click or a hotkey, from a window that stays on top. Import many files at once or play one from a web address.",
+      "changelog": "",
+      "permissions": [
+        "ui.menus",
+        "ui.windows",
+        "audio.output",
+        "audio.mic",
+        "audio.url",
+        "hotkeys",
+        "storage"
+      ],
+      "tags": [
+        "audio",
+        "soundboard"
+      ],
+      "icon": "",
+      "screenshots": [],
+      "file": "packages/ir.northvector.soundboard/ir.northvector.soundboard-1.3.0.tar.gz",
+      "sha256": "e7acfec19ef4740e120bcf183dd5f15b06c5cdf6f4ead307ba2e94f9cae3bfbb",
+      "size": 4424,
+      "updated": "2026-11-01T15:56:31.319Z"
     }
   ]
 }
