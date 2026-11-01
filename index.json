@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T16:48:44.540Z",
+  "generated": "2026-11-01T17:08:37.949Z",
   "app": {
-    "version": "0.2.2",
-    "published": "2026-11-01T16:48:44.529Z",
-    "notes": "- manage installed plugins from the marketplace; add forced app updates\n- update plugin versions to 1.0.1 and 1.3.1; add icons for p2p-chat, p2p-files, screenshare, soundboard, and watch-together\n- update plugin manifests with new IDs, summaries, and tags; enhance publishing script and add tests",
-    "minVersion": "0.2.2",
+    "version": "0.2.3",
+    "published": "2026-11-01T17:08:37.937Z",
+    "notes": "- embed the app icon in the Windows exe",
+    "minVersion": "0.2.3",
     "windows": {
-      "file": "app/0.2.2/teamspeak-desktop.exe.gz",
+      "file": "app/0.2.3/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.2.2/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.2.3/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "f3fc225396b64778bb8c26a45345d539ef976efc1ca79fde654aa1466593e87f",
-      "size": 15890806
+      "sha256": "4c5ad89e927aec5a1b46f72e3cf0a8f14373618debee4f75a1324767ff827e9e",
+      "size": 15921467
     }
   },
   "packages": [
