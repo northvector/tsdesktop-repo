@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T22:00:22.782Z",
+  "generated": "2026-11-01T22:03:38.931Z",
   "app": {
-    "version": "0.2.9",
-    "published": "2026-11-01T22:00:22.772Z",
-    "notes": "- improve image sizing and scaling in avatar display",
-    "minVersion": "0.2.8",
+    "version": "0.3.0",
+    "published": "2026-11-01T22:03:38.921Z",
+    "notes": "",
+    "minVersion": "0.3.0",
     "windows": {
-      "file": "app/0.2.9/teamspeak-desktop.exe.gz",
+      "file": "app/0.3.0/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.2.9/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.0/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "4bb3454d842eaeebdbdb761e8e28c0ba8c5076844b3968897756bcb79403850a",
-      "size": 16026154
+      "sha256": "b3222e769a994e1e713d749b8f14d2f43274682d34e2536e928b4ac62f9acda9",
+      "size": 16026000
     }
   },
   "packages": [
