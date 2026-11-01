@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T19:32:02.094Z",
+  "generated": "2026-11-01T19:32:35.822Z",
   "app": {
     "version": "0.2.6",
     "published": "2026-11-01T19:32:02.083Z",
@@ -161,9 +161,9 @@
       "kind": "plugin",
       "name": "Watch together",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "apiVersion": "1.3",
-      "minApp": "0.2.4",
+      "minApp": "0.2.6",
       "summary": "Watch videos with your channel, in sync",
       "description": "Watch a video with your channel, in step: share a web address (MP4, MKV, WebM, HLS) and everyone who joins plays it at the same moment, pausing and seeking together. Each viewer picks their own audio track and subtitles; subtitle files can be shared too. Plays in the app (ffmpeg) or in VLC.",
       "changelog": "",
@@ -179,10 +179,10 @@
       ],
       "icon": "media/ir.northvector.watchtogether/icon.png",
       "screenshots": [],
-      "file": "packages/ir.northvector.watchtogether/ir.northvector.watchtogether-1.2.1.tar.gz",
-      "sha256": "4755802cb90e8be0dad13d89778c8de093009a3c6dfc6d09e542866c9b0ee097",
-      "size": 10172,
-      "updated": "2026-11-01T19:00:10.139Z"
+      "file": "packages/ir.northvector.watchtogether/ir.northvector.watchtogether-1.2.2.tar.gz",
+      "sha256": "8988faed7b5c2306f2f9456fafaf56c814c507e0c56131164635e3a758f5c757",
+      "size": 10184,
+      "updated": "2026-11-01T19:32:35.822Z"
     }
   ]
 }
