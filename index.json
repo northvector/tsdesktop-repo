@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T19:00:10.139Z",
+  "generated": "2026-11-01T19:32:02.094Z",
   "app": {
-    "version": "0.2.5",
-    "published": "2026-11-01T18:59:37.643Z",
-    "notes": "- smooth playback, reachable fullscreen controls, working volume popup",
-    "minVersion": "0.2.5",
+    "version": "0.2.6",
+    "published": "2026-11-01T19:32:02.083Z",
+    "notes": "- letterboxed video, auto-hiding fullscreen controls, subtitle settings in fullscreen, RTL subtitle rows",
+    "minVersion": "0.2.6",
     "windows": {
-      "file": "app/0.2.5/teamspeak-desktop.exe.gz",
+      "file": "app/0.2.6/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.2.5/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.2.6/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "b91d85cb53eee663faf2136db711de8535aaaaa73740d9fac03cbc3c991953f8",
-      "size": 15940418
+      "sha256": "091ee4b96869833cb319744ee76334d132457fdf728e31b7dfcf1f55cf0de760",
+      "size": 15973769
     }
   },
   "packages": [
