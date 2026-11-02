@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-02T12:26:07.155Z",
+  "generated": "2026-11-02T20:01:07.750Z",
   "app": {
-    "version": "0.3.2",
-    "published": "2026-11-02T12:25:39.831Z",
-    "notes": "- styled slider labels, away glyph, dark Classic TS3 theme",
-    "minVersion": "0.3.2",
+    "version": "0.3.3",
+    "published": "2026-11-02T20:01:07.738Z",
+    "notes": "- per-identity hardware id and wait out clone refusals on reconnect",
+    "minVersion": "0.3.3",
     "windows": {
-      "file": "app/0.3.2/teamspeak-desktop.exe.gz",
+      "file": "app/0.3.3/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.2/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.3/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "fb2e8bb515c64899813f067e1b2b174576a4b6f3940b12eb94a0842de4adffb3",
-      "size": 16581875
+      "sha256": "e88c3a42b939b4d249e219198d5377d1c4f10dc80bb590dc3d9e528f3d99acd4",
+      "size": 16640147
     }
   },
   "packages": [
