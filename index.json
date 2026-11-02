@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-02T12:25:39.841Z",
+  "generated": "2026-11-02T12:26:07.155Z",
   "app": {
     "version": "0.3.2",
     "published": "2026-11-02T12:25:39.831Z",
@@ -21,11 +21,11 @@
       "kind": "theme",
       "name": "Classic TS3",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.6.0",
+      "version": "1.7.0",
       "apiVersion": "1.4",
       "minApp": "",
       "summary": "The original TeamSpeak 3 look",
-      "description": "The light grey and blue look of the original TeamSpeak 3 client: white channel tree, black text, blue selection and talk lights.",
+      "description": "The light grey and blue look of the original TeamSpeak 3 client: white channel tree, black text, blue selection and talk lights, plus a Dark Classic TS3 variant of the same window.",
       "changelog": "",
       "permissions": [
         "ui.themes"
@@ -33,16 +33,17 @@
       "tags": [
         "theme",
         "classic",
-        "light"
+        "light",
+        "dark"
       ],
       "icon": "",
       "screenshots": [
         "media/ir.northvector.classicts3/banner.png"
       ],
-      "file": "packages/ir.northvector.classicts3/ir.northvector.classicts3-1.6.0.tar.gz",
-      "sha256": "67b155c1568bc59f62dcaed4b57da92ea3e25da935f1808ab3bec4434f12ed17",
-      "size": 158707,
-      "updated": "2026-11-02T09:35:33.742Z"
+      "file": "packages/ir.northvector.classicts3/ir.northvector.classicts3-1.7.0.tar.gz",
+      "sha256": "5b7fc17bf0e2ca725228e9907f500342f35d7d03e6a3e0345f7cf871a545b289",
+      "size": 159000,
+      "updated": "2026-11-02T12:26:07.080Z"
     },
     {
       "id": "ir.northvector.p2pfiles",
@@ -171,7 +172,7 @@
       "kind": "plugin",
       "name": "Watch together",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.2.3",
+      "version": "1.2.4",
       "apiVersion": "1.3",
       "minApp": "0.2.6",
       "summary": "Watch videos with your channel, in sync",
@@ -191,10 +192,10 @@
       "screenshots": [
         "media/ir.northvector.watchtogether/banner.png"
       ],
-      "file": "packages/ir.northvector.watchtogether/ir.northvector.watchtogether-1.2.3.tar.gz",
-      "sha256": "3fd4700eeacad5d4d912e21db8cfad4376ff0e565198998b261151c4e08a0125",
-      "size": 10183,
-      "updated": "2026-11-01T21:14:21.045Z"
+      "file": "packages/ir.northvector.watchtogether/ir.northvector.watchtogether-1.2.4.tar.gz",
+      "sha256": "affb01938d8ef87a5da90597f90d166fc8dbdfec1d13ffaf2f18dbe1e517b8f4",
+      "size": 10259,
+      "updated": "2026-11-02T12:26:07.155Z"
     }
   ]
 }
