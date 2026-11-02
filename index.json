@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T22:03:38.931Z",
+  "generated": "2026-11-02T09:35:02.659Z",
   "app": {
-    "version": "0.3.0",
-    "published": "2026-11-01T22:03:38.921Z",
-    "notes": "",
-    "minVersion": "0.3.0",
+    "version": "0.3.1",
+    "published": "2026-11-02T09:35:02.648Z",
+    "notes": "- implement push-to-talk mode for microphone hearing\n- enhance theme customization with new colors, images, and settings\n- enhance theme registration with layout customization options",
+    "minVersion": "0.3.1",
     "windows": {
-      "file": "app/0.3.0/teamspeak-desktop.exe.gz",
+      "file": "app/0.3.1/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.0/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.1/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "b3222e769a994e1e713d749b8f14d2f43274682d34e2536e928b4ac62f9acda9",
-      "size": 16026000
+      "sha256": "8edbd5da194af38282b2277d6527fddd2d9ba0faeb3c341722dfe95d8cc607a4",
+      "size": 16583563
     }
   },
   "packages": [
