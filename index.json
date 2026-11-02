@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-02T09:35:02.659Z",
+  "generated": "2026-11-02T09:35:33.744Z",
   "app": {
     "version": "0.3.1",
     "published": "2026-11-02T09:35:02.648Z",
@@ -21,8 +21,8 @@
       "kind": "theme",
       "name": "Classic TS3",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.0.1",
-      "apiVersion": "1.0",
+      "version": "1.6.0",
+      "apiVersion": "1.4",
       "minApp": "",
       "summary": "The original TeamSpeak 3 look",
       "description": "The light grey and blue look of the original TeamSpeak 3 client: white channel tree, black text, blue selection and talk lights.",
@@ -39,10 +39,10 @@
       "screenshots": [
         "media/ir.northvector.classicts3/banner.png"
       ],
-      "file": "packages/ir.northvector.classicts3/ir.northvector.classicts3-1.0.1.tar.gz",
-      "sha256": "0f41ac0de49eb5c56015e60d2d72aa8c2abe2132ba4c5f57a065bfff57645a07",
-      "size": 609,
-      "updated": "2026-11-01T21:14:20.700Z"
+      "file": "packages/ir.northvector.classicts3/ir.northvector.classicts3-1.6.0.tar.gz",
+      "sha256": "67b155c1568bc59f62dcaed4b57da92ea3e25da935f1808ab3bec4434f12ed17",
+      "size": 158707,
+      "updated": "2026-11-02T09:35:33.742Z"
     },
     {
       "id": "ir.northvector.p2pfiles",
