@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-03T19:16:44.400Z",
+  "generated": "2026-11-03T19:17:26.792Z",
   "app": {
     "version": "0.3.5",
     "published": "2026-11-03T19:16:44.387Z",
@@ -79,7 +79,7 @@
       "kind": "plugin",
       "name": "Discord",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.5.0",
+      "version": "1.6.0",
       "apiVersion": "1.5",
       "minApp": "",
       "summary": "Discord servers, voice and chat, without the Discord app",
@@ -88,6 +88,7 @@
       "permissions": [
         "ui.menus",
         "ui.panels",
+        "ui.modals",
         "storage",
         "discord",
         "media.capture"
@@ -101,10 +102,10 @@
       "screenshots": [
         "media/ir.northvector.discord/banner.png"
       ],
-      "file": "packages/ir.northvector.discord/ir.northvector.discord-1.5.0.tar.gz",
-      "sha256": "ba569f509a363a5dd00235d21364e214bd48b83655916ed091d48a2cc86b6bd2",
-      "size": 18829,
-      "updated": "2026-11-03T15:24:02.894Z"
+      "file": "packages/ir.northvector.discord/ir.northvector.discord-1.6.0.tar.gz",
+      "sha256": "764c38fea2b45a33dfe6e54653a4bcc5de031ea71b9c3284cff01a26fc42ea1c",
+      "size": 20542,
+      "updated": "2026-11-03T19:17:26.790Z"
     },
     {
       "id": "ir.northvector.p2pchat",
