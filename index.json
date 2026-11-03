@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-03T15:24:02.894Z",
+  "generated": "2026-11-03T15:24:11.046Z",
   "app": {
     "version": "0.3.4",
     "published": "2026-11-03T15:23:33.870Z",
@@ -21,7 +21,7 @@
       "kind": "theme",
       "name": "Classic TS3",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.7.0",
+      "version": "1.8.0",
       "apiVersion": "1.4",
       "minApp": "",
       "summary": "The original TeamSpeak 3 look",
@@ -40,10 +40,10 @@
       "screenshots": [
         "media/ir.northvector.classicts3/banner.png"
       ],
-      "file": "packages/ir.northvector.classicts3/ir.northvector.classicts3-1.7.0.tar.gz",
-      "sha256": "5b7fc17bf0e2ca725228e9907f500342f35d7d03e6a3e0345f7cf871a545b289",
-      "size": 159000,
-      "updated": "2026-11-02T12:26:07.080Z"
+      "file": "packages/ir.northvector.classicts3/ir.northvector.classicts3-1.8.0.tar.gz",
+      "sha256": "e25ab254ae10390926c24df41f00c9d441a44d92aa8203a7598e97fad57faf76",
+      "size": 159019,
+      "updated": "2026-11-03T15:24:11.044Z"
     },
     {
       "id": "ir.northvector.p2pfiles",
