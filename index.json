@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-03T15:24:11.046Z",
+  "generated": "2026-11-03T19:16:44.400Z",
   "app": {
-    "version": "0.3.4",
-    "published": "2026-11-03T15:23:33.870Z",
-    "notes": "- Discord calls, video, Go Live, richer chat, proxy and market banner\n- Discord plugin with secure login and voice bridge\n- Update Classic TS3 plugin and dialogs",
-    "minVersion": "0.3.4",
+    "version": "0.3.5",
+    "published": "2026-11-03T19:16:44.387Z",
+    "notes": "- in-app picture viewer, plugin media and modals, TS3 import from any install",
+    "minVersion": "0.3.5",
     "windows": {
-      "file": "app/0.3.4/teamspeak-desktop.exe.gz",
+      "file": "app/0.3.5/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.4/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.5/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "956bee392e9a8bcf5f0ae49e94481ccfa9aebedb08efef61472e300ea1e2e804",
-      "size": 18475208
+      "sha256": "b075b2e93b8f1f8d5514cead11d68acec09a5d6a39d0837fe8dc758f1bd53fc3",
+      "size": 18482520
     }
   },
   "packages": [
