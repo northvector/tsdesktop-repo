@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-06T08:16:12.093Z",
+  "generated": "2026-11-06T08:20:21.354Z",
   "app": {
-    "version": "0.3.5",
-    "published": "2026-11-03T19:16:44.387Z",
-    "notes": "- in-app picture viewer, plugin media and modals, TS3 import from any install",
-    "minVersion": "0.3.5",
+    "version": "0.3.6",
+    "published": "2026-11-06T08:20:21.341Z",
+    "notes": "- update Discord plugin to support slash commands and interactions\n- Enhance scroll handling and UI responsiveness in plugin SDK\n- Enhance audio handling and UI features\n- add comprehensive todo list for bugs and feature requests",
+    "minVersion": "0.3.6",
     "windows": {
-      "file": "app/0.3.5/teamspeak-desktop.exe.gz",
+      "file": "app/0.3.6/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.5/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.6/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "b075b2e93b8f1f8d5514cead11d68acec09a5d6a39d0837fe8dc758f1bd53fc3",
-      "size": 18482520
+      "sha256": "fcd41b521e4a15da39ba5874ce8dc442a38c72aa0c216ab4992835b6645eee71",
+      "size": 18599921
     }
   },
   "packages": [
