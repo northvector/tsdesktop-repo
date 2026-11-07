@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-07T10:45:29.185Z",
+  "generated": "2026-11-07T11:38:52.182Z",
   "app": {
-    "version": "0.3.8",
-    "published": "2026-11-07T10:44:47.065Z",
-    "notes": "- Discord: log in with your password (2FA and captcha supported) or a token, besides the QR code\n- Soundboard: pinned pads and a toolbar that stays put while the pads scroll\n- Plugin SDK: pinned layouts, input key handling and focus, list rows with subtitles and chips\n- Connection, theme and right-to-left text fixes\n",
-    "minVersion": "0.3.7",
+    "version": "0.3.9",
+    "published": "2026-11-07T11:38:52.170Z",
+    "notes": "- leave room for the slider value box in fill-width sliders",
+    "minVersion": "0.3.9",
     "windows": {
-      "file": "app/0.3.8/teamspeak-desktop.exe.gz",
+      "file": "app/0.3.9/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.8/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.9/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "95a7e48b12830402c5c990246c6c5346fe6fe0ef7c889f827618aeb899114c7c",
-      "size": 18846767
+      "sha256": "3b12863f766a65039f7af5bfaf685f35a72a1ef85c206b5e5bd040ea89df63b4",
+      "size": 18854667
     }
   },
   "packages": [
