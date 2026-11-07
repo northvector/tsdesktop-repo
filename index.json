@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-06T08:20:21.354Z",
+  "generated": "2026-11-07T09:46:26.403Z",
   "app": {
-    "version": "0.3.6",
-    "published": "2026-11-06T08:20:21.341Z",
-    "notes": "- update Discord plugin to support slash commands and interactions\n- Enhance scroll handling and UI responsiveness in plugin SDK\n- Enhance audio handling and UI features\n- add comprehensive todo list for bugs and feature requests",
-    "minVersion": "0.3.6",
+    "version": "0.3.7",
+    "published": "2026-11-07T09:46:26.392Z",
+    "notes": "- Text-to-speech voices for chat and events\n- Smoother window: redraws only when something changes, and saves to disk off the window's thread\n- Discord: slash command picker with subcommands, status dots, better layout\n- Plugin SDK: pinned layouts, input key handling and focus, list rows with subtitles and chips, status dots on images\n- Right-to-left text, image loading and theme fixes\n- Connection and voice fixes\n",
+    "minVersion": "0.3.7",
     "windows": {
-      "file": "app/0.3.6/teamspeak-desktop.exe.gz",
+      "file": "app/0.3.7/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.6/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.7/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "fcd41b521e4a15da39ba5874ce8dc442a38c72aa0c216ab4992835b6645eee71",
-      "size": 18599921
+      "sha256": "1f07abca38585739d388a449a7a454aa72b5c162e2cecea505083475c5a08573",
+      "size": 18808904
     }
   },
   "packages": [
