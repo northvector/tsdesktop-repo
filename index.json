@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-07T11:38:52.182Z",
+  "generated": "2026-11-07T19:21:44.190Z",
   "app": {
     "version": "0.3.9",
     "published": "2026-11-07T11:38:52.170Z",
@@ -106,6 +106,62 @@
       "sha256": "b18b561abd8f043777ff8b3b7b5f8250ce0f299fc2259298ef0db9822c374ac4",
       "size": 24734,
       "updated": "2026-11-07T10:45:29.113Z"
+    },
+    {
+      "id": "ir.northvector.highlights",
+      "kind": "plugin",
+      "name": "Highlights",
+      "author": "TeamSpeak Desktop examples",
+      "version": "1.0.0",
+      "apiVersion": "1.0",
+      "minApp": "",
+      "summary": "Mentions, keyword alerts and talk time",
+      "description": "Never miss your name: chat messages that mention you or a word you watch, and pokes, are collected in one list with a notification. Also shows who talked how long since you opened the app.",
+      "changelog": "",
+      "permissions": [
+        "ui.menus",
+        "ui.panels",
+        "storage"
+      ],
+      "tags": [
+        "chat",
+        "notifications"
+      ],
+      "icon": "",
+      "screenshots": [],
+      "file": "packages/ir.northvector.highlights/ir.northvector.highlights-1.0.0.tar.gz",
+      "sha256": "264f410b8665574cfa2149e1fc7c08bd7c21aeb24ca908fac7963733dcc1f169",
+      "size": 2342,
+      "updated": "2026-11-07T19:21:44.122Z"
+    },
+    {
+      "id": "ir.northvector.polls",
+      "kind": "plugin",
+      "name": "Polls",
+      "author": "TeamSpeak Desktop examples",
+      "version": "1.0.0",
+      "apiVersion": "1.2",
+      "minApp": "",
+      "summary": "Live polls for your channel",
+      "description": "Ask the people on your server a question and watch the answers come in live. Everyone who runs Polls gets it in their panel and votes with a click; one vote per person, changeable until you close the poll. Sent straight between you, end-to-end encrypted (through the TeamSpeak server only when no direct route exists).",
+      "changelog": "",
+      "permissions": [
+        "ui.menus",
+        "ui.panels",
+        "storage",
+        "network.p2p"
+      ],
+      "tags": [
+        "chat",
+        "p2p",
+        "polls"
+      ],
+      "icon": "",
+      "screenshots": [],
+      "file": "packages/ir.northvector.polls/ir.northvector.polls-1.0.0.tar.gz",
+      "sha256": "7faefcd9d80d57294b1c743b2c36d13012e71442e20ace486884c7cba43980f6",
+      "size": 4722,
+      "updated": "2026-11-07T19:21:44.190Z"
     },
     {
       "id": "ir.northvector.p2pchat",
