@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-07T09:47:02.552Z",
+  "generated": "2026-11-07T10:44:47.077Z",
   "app": {
-    "version": "0.3.7",
-    "published": "2026-11-07T09:46:26.392Z",
-    "notes": "- Text-to-speech voices for chat and events\n- Smoother window: redraws only when something changes, and saves to disk off the window's thread\n- Discord: slash command picker with subcommands, status dots, better layout\n- Plugin SDK: pinned layouts, input key handling and focus, list rows with subtitles and chips, status dots on images\n- Right-to-left text, image loading and theme fixes\n- Connection and voice fixes\n",
+    "version": "0.3.8",
+    "published": "2026-11-07T10:44:47.065Z",
+    "notes": "- Discord: log in with your password (2FA and captcha supported) or a token, besides the QR code\n- Soundboard: pinned pads and a toolbar that stays put while the pads scroll\n- Plugin SDK: pinned layouts, input key handling and focus, list rows with subtitles and chips\n- Connection, theme and right-to-left text fixes\n",
     "minVersion": "0.3.7",
     "windows": {
-      "file": "app/0.3.7/teamspeak-desktop.exe.gz",
+      "file": "app/0.3.8/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.7/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.8/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "1f07abca38585739d388a449a7a454aa72b5c162e2cecea505083475c5a08573",
-      "size": 18808904
+      "sha256": "95a7e48b12830402c5c990246c6c5346fe6fe0ef7c889f827618aeb899114c7c",
+      "size": 18846767
     }
   },
   "packages": [
