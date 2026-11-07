@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-07T10:44:47.077Z",
+  "generated": "2026-11-07T10:45:29.185Z",
   "app": {
     "version": "0.3.8",
     "published": "2026-11-07T10:44:47.065Z",
@@ -79,11 +79,11 @@
       "kind": "plugin",
       "name": "Discord",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.8.1",
+      "version": "1.9.0",
       "apiVersion": "1.5",
-      "minApp": "0.3.7",
+      "minApp": "0.3.8",
       "summary": "Discord servers, voice and chat, without the Discord app",
-      "description": "Your Discord servers, voice and chat docked beside the bookmarks, without the Discord app: voice channels and DM calls (end-to-end encrypted), camera and Go Live, messages with emoji, GIFs, reactions, replies, files and threads, slash commands and bot DMs, plus statuses, profiles and unread mentions. Optional proxy where Discord is blocked. Log in with a QR code from the Discord phone app; the login stays encrypted on this PC and the app talks to nobody but Discord. Discord doesn't officially allow third-party clients, so use it at your own risk.",
+      "description": "Your Discord servers, voice and chat docked beside the bookmarks, without the Discord app: voice channels and DM calls (end-to-end encrypted), camera and Go Live, messages with emoji, GIFs, reactions, replies, files and threads, slash commands and bot DMs, plus statuses, profiles and unread mentions. Optional proxy where Discord is blocked. Log in with a QR code from the Discord phone app, your password (2FA supported) or a token; the login stays encrypted on this PC and the app talks to nobody but Discord. Discord doesn't officially allow third-party clients, so use it at your own risk.",
       "changelog": "",
       "permissions": [
         "ui.menus",
@@ -102,10 +102,10 @@
       "screenshots": [
         "media/ir.northvector.discord/banner.png"
       ],
-      "file": "packages/ir.northvector.discord/ir.northvector.discord-1.8.1.tar.gz",
-      "sha256": "87a04f9fbe2ab420883d4834b5f091c4b5a29404324fa6d93f55677cfb2dd669",
-      "size": 23886,
-      "updated": "2026-11-07T09:47:02.550Z"
+      "file": "packages/ir.northvector.discord/ir.northvector.discord-1.9.0.tar.gz",
+      "sha256": "b18b561abd8f043777ff8b3b7b5f8250ce0f299fc2259298ef0db9822c374ac4",
+      "size": 24734,
+      "updated": "2026-11-07T10:45:29.113Z"
     },
     {
       "id": "ir.northvector.p2pchat",
@@ -172,9 +172,9 @@
       "kind": "plugin",
       "name": "Soundboard",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.4.0",
+      "version": "1.5.0",
       "apiVersion": "1.0",
-      "minApp": "",
+      "minApp": "0.3.8",
       "summary": "Play sounds into your channel",
       "description": "Play sounds to your channel with a click or a hotkey, from a window that stays on top. Import many files at once or play one from a web address.",
       "changelog": "",
@@ -195,10 +195,10 @@
       "screenshots": [
         "media/ir.northvector.soundboard/banner.png"
       ],
-      "file": "packages/ir.northvector.soundboard/ir.northvector.soundboard-1.4.0.tar.gz",
-      "sha256": "a0211fb59a4251e738970782fd7807eb0db47c25e78a136805306d52e8c0e20f",
-      "size": 10240,
-      "updated": "2026-11-06T08:16:12.093Z"
+      "file": "packages/ir.northvector.soundboard/ir.northvector.soundboard-1.5.0.tar.gz",
+      "sha256": "29c0d7ff34ee51a2a0c5f463c82fbadaeca87814c1eaad2b97394573727f0e20",
+      "size": 5555,
+      "updated": "2026-11-07T10:45:29.184Z"
     },
     {
       "id": "ir.northvector.watchtogether",
