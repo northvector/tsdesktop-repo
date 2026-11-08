@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-08T09:27:43.354Z",
+  "generated": "2026-11-08T11:20:49.442Z",
   "app": {
-    "version": "0.3.11",
-    "published": "2026-11-08T09:27:43.343Z",
-    "notes": "- Contacts page: add, rename, friend or remove people; custom names show in the channel tree\n- Multi-select in the channel tree: move, whisper, kick, subscribe or delete several at once\n- Push-to-talk key sound (TeamSpeak click or Discord style)\n- Manage Bookmarks from the bookmark menu\n- Connection status shows your name and ping\n- Highlights and Polls plugins in the marketplace\n",
-    "minVersion": "0.3.11",
+    "version": "0.3.12",
+    "published": "2026-11-08T11:20:49.431Z",
+    "notes": "",
+    "minVersion": "0.3.12",
     "windows": {
-      "file": "app/0.3.11/teamspeak-desktop.exe.gz",
+      "file": "app/0.3.12/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.11/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.12/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "3a472cda30daac79f376cd7e9cbb84d0c7bbddd75e115e7fd96ac538c85f2cac",
-      "size": 18896302
+      "sha256": "dec565ed1e15edf95222b488e6300f364293d05d6ce1660715f9ff3933e636e6",
+      "size": 18946232
     }
   },
   "packages": [
