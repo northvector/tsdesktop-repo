@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-08T13:31:35.191Z",
+  "generated": "2026-11-08T13:32:07.412Z",
   "app": {
     "version": "0.3.13",
     "published": "2026-11-08T13:31:35.179Z",
@@ -79,9 +79,9 @@
       "kind": "plugin",
       "name": "Discord",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.9.0",
+      "version": "1.10.0",
       "apiVersion": "1.5",
-      "minApp": "0.3.8",
+      "minApp": "0.3.13",
       "summary": "Discord servers, voice and chat, without the Discord app",
       "description": "Your Discord servers, voice and chat docked beside the bookmarks, without the Discord app: voice channels and DM calls (end-to-end encrypted), camera and Go Live, messages with emoji, GIFs, reactions, replies, files and threads, slash commands and bot DMs, plus statuses, profiles and unread mentions. Optional proxy where Discord is blocked. Log in with a QR code from the Discord phone app, your password (2FA supported) or a token; the login stays encrypted on this PC and the app talks to nobody but Discord. Discord doesn't officially allow third-party clients, so use it at your own risk.",
       "changelog": "",
@@ -102,10 +102,10 @@
       "screenshots": [
         "media/ir.northvector.discord/banner.png"
       ],
-      "file": "packages/ir.northvector.discord/ir.northvector.discord-1.9.0.tar.gz",
-      "sha256": "b18b561abd8f043777ff8b3b7b5f8250ce0f299fc2259298ef0db9822c374ac4",
-      "size": 24734,
-      "updated": "2026-11-07T10:45:29.113Z"
+      "file": "packages/ir.northvector.discord/ir.northvector.discord-1.10.0.tar.gz",
+      "sha256": "6c2922752ba546db53f96d49ce80abdc8e98ce9b4f7c947fab95e5e395bc1d86",
+      "size": 25630,
+      "updated": "2026-11-08T13:32:07.339Z"
     },
     {
       "id": "ir.northvector.highlights",
@@ -197,9 +197,9 @@
       "kind": "plugin",
       "name": "Screen Share",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.3.2",
+      "version": "1.4.0",
       "apiVersion": "1.1",
-      "minApp": "",
+      "minApp": "0.3.13",
       "summary": "Share your screen or camera with your channel",
       "description": "Share your screen and its sound, or your camera, and watch others', in the info panel: you join the room of your TeamSpeak channel (same name and password) through an OmeGa Meet server.",
       "changelog": "",
@@ -218,10 +218,10 @@
       "screenshots": [
         "media/omega.screenshare/banner.png"
       ],
-      "file": "packages/omega.screenshare/omega.screenshare-1.3.2.tar.gz",
-      "sha256": "91bc0063e5fe4e15b6b71e112055d393b84dcb81b74fcb58ae86cfa979358584",
-      "size": 4922,
-      "updated": "2026-11-01T21:14:20.905Z"
+      "file": "packages/omega.screenshare/omega.screenshare-1.4.0.tar.gz",
+      "sha256": "cb066260f3facb3ce4a6d17a1cb83f26ef3a9e6899f83382bb8c4d76fdcf3483",
+      "size": 5240,
+      "updated": "2026-11-08T13:32:07.412Z"
     },
     {
       "id": "ir.northvector.soundboard",
