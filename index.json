@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-08T13:32:07.412Z",
+  "generated": "2026-11-10T16:06:46.326Z",
   "app": {
-    "version": "0.3.13",
-    "published": "2026-11-08T13:31:35.179Z",
+    "version": "0.3.14",
+    "published": "2026-11-10T16:06:46.314Z",
     "notes": "",
-    "minVersion": "0.3.13",
+    "minVersion": "0.3.14",
     "windows": {
-      "file": "app/0.3.13/teamspeak-desktop.exe.gz",
+      "file": "app/0.3.14/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.13/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.14/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "93f5a85551bf931825be7961a855bdd36abc48c2e374757c06a32213ede963a1",
-      "size": 18967243
+      "sha256": "1f1ef20ed8140e242a50a530a5cfcb1c806f03f406f8165a6a20edce71951aad",
+      "size": 18971389
     }
   },
   "packages": [
