@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-10T16:06:46.326Z",
+  "generated": "2026-11-10T16:08:25.962Z",
   "app": {
     "version": "0.3.14",
     "published": "2026-11-10T16:06:46.314Z",
@@ -79,7 +79,7 @@
       "kind": "plugin",
       "name": "Discord",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.10.0",
+      "version": "1.10.1",
       "apiVersion": "1.5",
       "minApp": "0.3.13",
       "summary": "Discord servers, voice and chat, without the Discord app",
@@ -102,10 +102,10 @@
       "screenshots": [
         "media/ir.northvector.discord/banner.png"
       ],
-      "file": "packages/ir.northvector.discord/ir.northvector.discord-1.10.0.tar.gz",
-      "sha256": "6c2922752ba546db53f96d49ce80abdc8e98ce9b4f7c947fab95e5e395bc1d86",
-      "size": 25630,
-      "updated": "2026-11-08T13:32:07.339Z"
+      "file": "packages/ir.northvector.discord/ir.northvector.discord-1.10.1.tar.gz",
+      "sha256": "7979a731fa68eea4e01a75f4bfc2c7c4f5fa70b101a6ceb8c5b7d4219e7f4b7e",
+      "size": 25549,
+      "updated": "2026-11-10T16:08:25.959Z"
     },
     {
       "id": "ir.northvector.highlights",
