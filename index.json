@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-13T11:47:14.246Z",
+  "generated": "2026-11-13T13:27:16.259Z",
   "app": {
-    "version": "0.3.15",
-    "published": "2026-11-13T11:47:14.233Z",
-    "notes": "- Discord uses far less CPU while idle: presences, typing and messages of servers you aren't looking at no longer rebuild and redraw everything, and plugin panels are no longer re-rendered on every frame.\n- Plugins in a window of their own: their dialogs and floating panels open in that window instead of the main one.\n- Every text field has a right-click menu (Cut, Copy, Paste, Select all).\n- Bookmarks: \"Connect when the app starts\".\n- Avatars upload in their own resolution; a server that refuses gets the usual 300x300 one, without an error.\n- File browser shows the system's own icons for each kind of file.\n- New setting: load pictures in chat by themselves (turn off to load each on a click).\n- Large pictures in chat show instead of turning into links: a slow download is no longer given up on while it still makes progress, and files up to 32 MB load on sight.\n- Presence: others using this app can see your plugins and (if you turn it on) what you play; an overlay shows who is talking over fullscreen games.\n",
-    "minVersion": "0.3.15",
+    "version": "0.3.16",
+    "published": "2026-11-13T13:27:16.247Z",
+    "notes": "- Closed to the notification area, the app no longer keeps a processor core busy. It also keeps working there now: sounds, events and plugins carry on while the window is away.\n- Change a client's description (yours or, with the permission, someone else's) from the right-click menu.\n- A picture a plugin opens shows in that plugin's own window when it has one.\n- Dialogs, the file browser and the permissions window put the cursor in their first text field when they open.\n- Paused animations in plugin panels play under the mouse, like pictures in chat.\n- Persian and Arabic names read the right way round in dialogs.\n- Discord: each channel shows its own member list (also forums and threads), and the list comes back after a reconnect.\n",
+    "minVersion": "0.3.16",
     "windows": {
-      "file": "app/0.3.15/teamspeak-desktop.exe.gz",
+      "file": "app/0.3.16/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.15/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.16/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "ee60efe26c376fd71a9a4e651a97c224c024fc7597d1e44058eb604c1bb2a182",
-      "size": 18997800
+      "sha256": "f4fb351cb22877daa168c4f7fe06f75edc3420ab584f6d214a0102f3b520a47f",
+      "size": 19026690
     }
   },
   "packages": [
