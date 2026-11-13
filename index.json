@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-13T20:22:24.381Z",
+  "generated": "2026-11-13T20:48:14.680Z",
   "app": {
     "version": "0.3.16",
     "published": "2026-11-13T13:27:16.247Z",
@@ -16,6 +16,34 @@
     }
   },
   "packages": [
+    {
+      "id": "ir.northvector.broadside",
+      "kind": "plugin",
+      "name": "Broadside",
+      "author": "TeamSpeak Desktop examples",
+      "version": "1.0.0",
+      "apiVersion": "1.2",
+      "minApp": "",
+      "summary": "Sink your friend's fleet",
+      "description": "A naval guessing game for two TeamSpeak Desktop users. Hide your fleet on a 10×10 sea, then take turns firing at each other's waters until one fleet is gone. Shots go straight between you, end-to-end encrypted (through the TeamSpeak server only when no direct route exists).",
+      "changelog": "",
+      "permissions": [
+        "ui.menus",
+        "ui.windows",
+        "network.p2p",
+        "audio.output"
+      ],
+      "tags": [
+        "games",
+        "p2p"
+      ],
+      "icon": "",
+      "screenshots": [],
+      "file": "packages/ir.northvector.broadside/ir.northvector.broadside-1.0.0.tar.gz",
+      "sha256": "d2d3b588591784472c2de81108e3d971f4394c0ad6478d0fd53501f26bff5e35",
+      "size": 237055,
+      "updated": "2026-11-13T20:48:14.679Z"
+    },
     {
       "id": "ir.northvector.classicts3",
       "kind": "theme",
