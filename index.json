@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-13T19:19:54.648Z",
+  "generated": "2026-11-13T19:36:51.762Z",
   "app": {
     "version": "0.3.16",
     "published": "2026-11-13T13:27:16.247Z",
@@ -291,7 +291,7 @@
       "kind": "plugin",
       "name": "XO",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "apiVersion": "1.2",
       "minApp": "",
       "summary": "Tic-tac-toe with people on your server",
@@ -308,10 +308,10 @@
       ],
       "icon": "",
       "screenshots": [],
-      "file": "packages/ir.northvector.xo/ir.northvector.xo-1.0.0.tar.gz",
-      "sha256": "d67e60017dc0d0e15316b0f77148072d53d80ce8b29a69f8121af5a8c4801297",
-      "size": 2906,
-      "updated": "2026-11-13T19:19:54.642Z"
+      "file": "packages/ir.northvector.xo/ir.northvector.xo-1.0.1.tar.gz",
+      "sha256": "56c8f7d7fcbff4f0475c7e94cc62a91eacb314abc3318458f92314879e88ad5d",
+      "size": 3178,
+      "updated": "2026-11-13T19:36:51.761Z"
     }
   ]
 }
