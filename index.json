@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-13T20:05:45.346Z",
+  "generated": "2026-11-13T20:14:44.460Z",
   "app": {
     "version": "0.3.16",
     "published": "2026-11-13T13:27:16.247Z",
@@ -139,12 +139,12 @@
       "kind": "plugin",
       "name": "Ludo",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "apiVersion": "1.2",
       "minApp": "",
       "summary": "Ludo for 2-4 players on your server",
       "description": "Play Ludo with up to three other TeamSpeak Desktop users. Invite people from your servers, wait until everyone is connected, then roll. Moves go straight between you, end-to-end encrypted (through the TeamSpeak server only when no direct route exists).",
-      "changelog": "## 1.1.0\n- New board: round spaces, colored start arrows and home lanes, tinted yards\n- The die shows real dots and tumbles on every roll\n- Pieces you can move blink; a color key explains the board\n- Cleaner lobby with each player's color\n",
+      "changelog": "## 1.2.0\n- Pieces walk square by square to where they move\n- A captured piece waits for the capturer to land, then pops back into its yard\n- The die shakes while it rolls and drops in when it stops\n- The winner's pieces dance\n",
       "permissions": [
         "ui.menus",
         "ui.windows",
@@ -156,10 +156,10 @@
       ],
       "icon": "",
       "screenshots": [],
-      "file": "packages/ir.northvector.ludo/ir.northvector.ludo-1.1.0.tar.gz",
-      "sha256": "22088f4e76c5e0da4e5686aae9d0fa606f5abbe0c920e8a86fde9c248ce7708f",
-      "size": 7847,
-      "updated": "2026-11-13T20:05:45.345Z"
+      "file": "packages/ir.northvector.ludo/ir.northvector.ludo-1.2.0.tar.gz",
+      "sha256": "ff094911654ddb7b7d7feaa166e940b6b27bac7f71e828da6f1c38a38e8f03f8",
+      "size": 8530,
+      "updated": "2026-11-13T20:14:44.459Z"
     },
     {
       "id": "ir.northvector.polls",
