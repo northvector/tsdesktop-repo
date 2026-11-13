@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-10T16:08:25.962Z",
+  "generated": "2026-11-13T11:47:14.246Z",
   "app": {
-    "version": "0.3.14",
-    "published": "2026-11-10T16:06:46.314Z",
-    "notes": "",
-    "minVersion": "0.3.14",
+    "version": "0.3.15",
+    "published": "2026-11-13T11:47:14.233Z",
+    "notes": "- Discord uses far less CPU while idle: presences, typing and messages of servers you aren't looking at no longer rebuild and redraw everything, and plugin panels are no longer re-rendered on every frame.\n- Plugins in a window of their own: their dialogs and floating panels open in that window instead of the main one.\n- Every text field has a right-click menu (Cut, Copy, Paste, Select all).\n- Bookmarks: \"Connect when the app starts\".\n- Avatars upload in their own resolution; a server that refuses gets the usual 300x300 one, without an error.\n- File browser shows the system's own icons for each kind of file.\n- New setting: load pictures in chat by themselves (turn off to load each on a click).\n- Large pictures in chat show instead of turning into links: a slow download is no longer given up on while it still makes progress, and files up to 32 MB load on sight.\n- Presence: others using this app can see your plugins and (if you turn it on) what you play; an overlay shows who is talking over fullscreen games.\n",
+    "minVersion": "0.3.15",
     "windows": {
-      "file": "app/0.3.14/teamspeak-desktop.exe.gz",
+      "file": "app/0.3.15/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.14/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.15/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "1f1ef20ed8140e242a50a530a5cfcb1c806f03f406f8165a6a20edce71951aad",
-      "size": 18971389
+      "sha256": "ee60efe26c376fd71a9a4e651a97c224c024fc7597d1e44058eb604c1bb2a182",
+      "size": 18997800
     }
   },
   "packages": [
