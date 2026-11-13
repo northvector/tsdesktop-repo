@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-13T21:10:35.285Z",
+  "generated": "2026-11-13T23:32:21.518Z",
   "app": {
-    "version": "0.3.16",
-    "published": "2026-11-13T13:27:16.247Z",
-    "notes": "- Closed to the notification area, the app no longer keeps a processor core busy. It also keeps working there now: sounds, events and plugins carry on while the window is away.\n- Change a client's description (yours or, with the permission, someone else's) from the right-click menu.\n- A picture a plugin opens shows in that plugin's own window when it has one.\n- Dialogs, the file browser and the permissions window put the cursor in their first text field when they open.\n- Paused animations in plugin panels play under the mouse, like pictures in chat.\n- Persian and Arabic names read the right way round in dialogs.\n- Discord: each channel shows its own member list (also forums and threads), and the list comes back after a reconnect.\n",
-    "minVersion": "0.3.16",
+    "version": "0.3.18",
+    "published": "2026-11-13T23:32:21.507Z",
+    "notes": "- relay server, broadside and xo plugins, plugin SDK updates",
+    "minVersion": "0.3.18",
     "windows": {
-      "file": "app/0.3.16/teamspeak-desktop.exe.gz",
+      "file": "app/0.3.18/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.16/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.18/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "f4fb351cb22877daa168c4f7fe06f75edc3420ab584f6d214a0102f3b520a47f",
-      "size": 19026690
+      "sha256": "86dd5248579117361e0419e9e4d51034499e809e6c9dd1c92fe5ddbe0e91b618",
+      "size": 19100129
     }
   },
   "packages": [
