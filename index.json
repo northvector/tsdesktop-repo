@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-13T13:27:50.236Z",
+  "generated": "2026-11-13T19:19:54.648Z",
   "app": {
     "version": "0.3.16",
     "published": "2026-11-13T13:27:16.247Z",
@@ -285,6 +285,33 @@
       "sha256": "affb01938d8ef87a5da90597f90d166fc8dbdfec1d13ffaf2f18dbe1e517b8f4",
       "size": 10259,
       "updated": "2026-11-02T12:26:07.155Z"
+    },
+    {
+      "id": "ir.northvector.xo",
+      "kind": "plugin",
+      "name": "XO",
+      "author": "TeamSpeak Desktop examples",
+      "version": "1.0.0",
+      "apiVersion": "1.2",
+      "minApp": "",
+      "summary": "Tic-tac-toe with people on your server",
+      "description": "Play tic-tac-toe (XO) with other TeamSpeak Desktop users. Moves go straight between you, end-to-end encrypted (through the TeamSpeak server only when no direct route exists).",
+      "changelog": "",
+      "permissions": [
+        "ui.menus",
+        "ui.panels",
+        "network.p2p"
+      ],
+      "tags": [
+        "games",
+        "p2p"
+      ],
+      "icon": "",
+      "screenshots": [],
+      "file": "packages/ir.northvector.xo/ir.northvector.xo-1.0.0.tar.gz",
+      "sha256": "d67e60017dc0d0e15316b0f77148072d53d80ce8b29a69f8121af5a8c4801297",
+      "size": 2906,
+      "updated": "2026-11-13T19:19:54.642Z"
     }
   ]
 }
