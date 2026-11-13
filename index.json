@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-13T19:36:51.762Z",
+  "generated": "2026-11-13T19:50:23.768Z",
   "app": {
     "version": "0.3.16",
     "published": "2026-11-13T13:27:16.247Z",
@@ -133,6 +133,33 @@
       "sha256": "264f410b8665574cfa2149e1fc7c08bd7c21aeb24ca908fac7963733dcc1f169",
       "size": 2342,
       "updated": "2026-11-07T19:21:44.122Z"
+    },
+    {
+      "id": "ir.northvector.ludo",
+      "kind": "plugin",
+      "name": "Ludo",
+      "author": "TeamSpeak Desktop examples",
+      "version": "1.0.0",
+      "apiVersion": "1.2",
+      "minApp": "",
+      "summary": "Ludo for 2-4 players on your server",
+      "description": "Play Ludo with up to three other TeamSpeak Desktop users. Invite people from your servers, wait until everyone is connected, then roll. Moves go straight between you, end-to-end encrypted (through the TeamSpeak server only when no direct route exists).",
+      "changelog": "",
+      "permissions": [
+        "ui.menus",
+        "ui.windows",
+        "network.p2p"
+      ],
+      "tags": [
+        "games",
+        "p2p"
+      ],
+      "icon": "",
+      "screenshots": [],
+      "file": "packages/ir.northvector.ludo/ir.northvector.ludo-1.0.0.tar.gz",
+      "sha256": "b572a67bf8b8aa4757e44a6b8a62e2247714fe5a0c72b3fef50f96caf931677d",
+      "size": 6616,
+      "updated": "2026-11-13T19:50:23.767Z"
     },
     {
       "id": "ir.northvector.polls",
@@ -291,7 +318,7 @@
       "kind": "plugin",
       "name": "XO",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "apiVersion": "1.2",
       "minApp": "",
       "summary": "Tic-tac-toe with people on your server",
@@ -308,10 +335,10 @@
       ],
       "icon": "",
       "screenshots": [],
-      "file": "packages/ir.northvector.xo/ir.northvector.xo-1.0.1.tar.gz",
-      "sha256": "56c8f7d7fcbff4f0475c7e94cc62a91eacb314abc3318458f92314879e88ad5d",
-      "size": 3178,
-      "updated": "2026-11-13T19:36:51.761Z"
+      "file": "packages/ir.northvector.xo/ir.northvector.xo-1.0.2.tar.gz",
+      "sha256": "c810b303d42cb2112a78cbc00eba05df241851790a43d00dd562fc2ab878250f",
+      "size": 3376,
+      "updated": "2026-11-13T19:50:23.693Z"
     }
   ]
 }
