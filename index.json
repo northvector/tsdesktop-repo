@@ -5,7 +5,7 @@
     "version": "0.3.20",
     "published": "2026-11-14T09:02:54.398Z",
     "notes": "- Card Table, Blackjack and Crazy Eights for 1-4 players\n- show a plugin's new pictures after it restarts",
-    "minVersion": "0.3.19",
+    "minVersion": "0.3.20",
     "windows": {
       "file": "app/0.3.20/teamspeak-desktop.exe.gz",
       "urls": [
