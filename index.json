@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-14T13:39:07.189Z",
+  "generated": "2026-11-14T15:30:52.825Z",
   "app": {
     "version": "0.3.21",
     "published": "2026-11-14T13:38:27.013Z",
@@ -258,11 +258,11 @@
       "kind": "plugin",
       "name": "Ludo",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.5.0",
+      "version": "1.6.0",
       "apiVersion": "1.6",
       "minApp": "",
-      "summary": "Ludo for 2-4 players on your server",
-      "description": "Play Ludo with up to three other TeamSpeak Desktop users. Invite people from your servers, wait until everyone is connected, then roll. Moves go straight between you, end-to-end encrypted (through the TeamSpeak server only when no direct route exists). Invite others to watch; leaving a game in progress asks first.",
+      "summary": "Ludo for 2-8 players on your server",
+      "description": "Play Ludo with up to seven other TeamSpeak Desktop users (five or more get a bigger board). Invite people from your servers, wait until everyone is connected, then roll. Moves go straight between you, end-to-end encrypted (through the TeamSpeak server only when no direct route exists). Invite others to watch; leaving a game in progress asks first.",
       "changelog": "",
       "permissions": [
         "ui.menus",
@@ -278,10 +278,10 @@
       "screenshots": [
         "media/ir.northvector.ludo/banner.png"
       ],
-      "file": "packages/ir.northvector.ludo/ir.northvector.ludo-1.5.0.tar.gz",
-      "sha256": "349e3f0e55d111cac2526d236afa2ecc878bb23213819721918a59e3f89e86c5",
-      "size": 892788,
-      "updated": "2026-11-14T09:56:08.942Z"
+      "file": "packages/ir.northvector.ludo/ir.northvector.ludo-1.6.0.tar.gz",
+      "sha256": "beb327b27d767cd24800db1a782bb60c1fb79e883b838fc99247698a37247037",
+      "size": 894209,
+      "updated": "2026-11-14T15:30:52.823Z"
     },
     {
       "id": "ir.northvector.polls",
