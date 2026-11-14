@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-13T23:32:21.518Z",
+  "generated": "2026-11-14T07:59:51.435Z",
   "app": {
-    "version": "0.3.18",
-    "published": "2026-11-13T23:32:21.507Z",
-    "notes": "- relay server, broadside and xo plugins, plugin SDK updates",
-    "minVersion": "0.3.18",
+    "version": "0.3.19",
+    "published": "2026-11-14T07:59:51.418Z",
+    "notes": "- Ludo 1.4 look and hover preview, invite chimes, dark themes\n- Refactor audio processing and plugin integration",
+    "minVersion": "0.3.19",
     "windows": {
-      "file": "app/0.3.18/teamspeak-desktop.exe.gz",
+      "file": "app/0.3.19/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.18/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.19/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "86dd5248579117361e0419e9e4d51034499e809e6c9dd1c92fe5ddbe0e91b618",
-      "size": 19100129
+      "sha256": "3dcbd8bb6d98b89e276ceb7cf472739651659f97e757541112ffe9eb6a08e51c",
+      "size": 19131070
     }
   },
   "packages": [
