@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-14T08:00:22.337Z",
+  "generated": "2026-11-14T08:21:53.776Z",
   "app": {
     "version": "0.3.19",
     "published": "2026-11-14T07:59:51.418Z",
@@ -319,7 +319,7 @@
       "kind": "plugin",
       "name": "Soundboard",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.5.0",
+      "version": "1.6.0",
       "apiVersion": "1.0",
       "minApp": "0.3.8",
       "summary": "Play sounds into your channel",
@@ -342,10 +342,10 @@
       "screenshots": [
         "media/ir.northvector.soundboard/banner.png"
       ],
-      "file": "packages/ir.northvector.soundboard/ir.northvector.soundboard-1.5.0.tar.gz",
-      "sha256": "29c0d7ff34ee51a2a0c5f463c82fbadaeca87814c1eaad2b97394573727f0e20",
-      "size": 5555,
-      "updated": "2026-11-07T10:45:29.184Z"
+      "file": "packages/ir.northvector.soundboard/ir.northvector.soundboard-1.6.0.tar.gz",
+      "sha256": "cce0cea32a760172b601f4aa531e0e76019adb69e6a5c97dd967efcaaf143f6b",
+      "size": 6153,
+      "updated": "2026-11-14T08:21:53.775Z"
     },
     {
       "id": "ir.northvector.watchtogether",
