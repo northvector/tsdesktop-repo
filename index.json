@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-14T08:53:27.443Z",
+  "generated": "2026-11-14T09:02:54.411Z",
   "app": {
-    "version": "0.3.19",
-    "published": "2026-11-14T07:59:51.418Z",
-    "notes": "- Ludo 1.4 look and hover preview, invite chimes, dark themes\n- Refactor audio processing and plugin integration",
+    "version": "0.3.20",
+    "published": "2026-11-14T09:02:54.398Z",
+    "notes": "- Card Table, Blackjack and Crazy Eights for 1-4 players\n- show a plugin's new pictures after it restarts",
     "minVersion": "0.3.19",
     "windows": {
-      "file": "app/0.3.19/teamspeak-desktop.exe.gz",
+      "file": "app/0.3.20/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.19/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.20/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "3dcbd8bb6d98b89e276ceb7cf472739651659f97e757541112ffe9eb6a08e51c",
-      "size": 19131070
+      "sha256": "3da0bdc9e59f0c0f909318aca7344ea47f2da415f5913d7c00b15d3e251e41d2",
+      "size": 19130217
     }
   },
   "packages": [
