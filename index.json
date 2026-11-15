@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-15T20:45:38.253Z",
+  "generated": "2026-11-15T22:01:29.470Z",
   "app": {
-    "version": "0.3.22",
-    "published": "2026-11-15T20:45:38.238Z",
-    "notes": "- move description change button for clients to the correct position in the menu\n- clarify badge display for non-theme plugins in the Manager\n- improve light color detection using perceived brightness and update text color handling for strong labels\n- update player capacity to 2-8 and enhance game description in manifest",
-    "minVersion": "0.3.19",
+    "version": "0.3.23",
+    "published": "2026-11-15T22:01:29.458Z",
+    "notes": "",
+    "minVersion": "0.3.23",
     "windows": {
-      "file": "app/0.3.22/teamspeak-desktop.exe.gz",
+      "file": "app/0.3.23/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.22/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.23/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "1a79ce874cbf6824d4f6b7eb2af8781168fd1c240aa937ca1710048077cfefc0",
-      "size": 19139328
+      "sha256": "a903e861c3c5a87be78a2d395016f862f807ff5138a91e2fed0e2bb3def6a00d",
+      "size": 19198802
     }
   },
   "packages": [
