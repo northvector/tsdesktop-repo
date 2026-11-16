@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-15T22:02:03.497Z",
+  "generated": "2026-11-16T10:43:23.049Z",
   "app": {
     "version": "0.3.23",
     "published": "2026-11-15T22:01:29.458Z",
@@ -81,29 +81,32 @@
       "kind": "theme",
       "name": "Classic TS3",
       "author": "TeamSpeak Desktop examples",
-      "version": "1.8.0",
-      "apiVersion": "1.4",
+      "version": "1.9.0",
+      "apiVersion": "1.6",
       "minApp": "",
-      "summary": "The original TeamSpeak 3 look",
-      "description": "The light grey and blue look of the original TeamSpeak 3 client: white channel tree, black text, blue selection and talk lights, plus a Dark Classic TS3 variant of the same window.",
+      "summary": "Classic TS3 themes, OLED colors and custom backgrounds",
+      "description": "The original TeamSpeak 3 look with light and dark themes, blue, green and red OLED variants, and a custom background image theme.",
       "changelog": "",
       "permissions": [
-        "ui.themes"
+        "ui.themes",
+        "ui.panels",
+        "storage"
       ],
       "tags": [
         "theme",
         "classic",
         "light",
-        "dark"
+        "dark",
+        "oled"
       ],
       "icon": "",
       "screenshots": [
         "media/ir.northvector.classicts3/banner.png"
       ],
-      "file": "packages/ir.northvector.classicts3/ir.northvector.classicts3-1.8.0.tar.gz",
-      "sha256": "e25ab254ae10390926c24df41f00c9d441a44d92aa8203a7598e97fad57faf76",
-      "size": 159019,
-      "updated": "2026-11-03T15:24:11.044Z"
+      "file": "packages/ir.northvector.classicts3/ir.northvector.classicts3-1.9.0.tar.gz",
+      "sha256": "1186936b4fcb861247927a87f8ecb67fb700b27ed5c576681e74f42349581f2b",
+      "size": 163840,
+      "updated": "2026-11-16T10:43:23.042Z"
     },
     {
       "id": "ir.northvector.cyberpunk",
