@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-16T10:49:10.074Z",
+  "generated": "2026-11-17T16:51:27.571Z",
   "app": {
     "version": "0.3.23",
     "published": "2026-11-15T22:01:29.458Z",
@@ -226,6 +226,30 @@
       "sha256": "687d06568fa068f31fda36029e64518294e2d110d49e07f60fd04f21bb3c9ddb",
       "size": 25602,
       "updated": "2026-11-13T13:27:50.234Z"
+    },
+    {
+      "id": "com.example.themes",
+      "kind": "theme",
+      "name": "Extra themes",
+      "author": "TeamSpeak Desktop examples",
+      "version": "1.0.0",
+      "apiVersion": "1.0",
+      "minApp": "",
+      "summary": "Adds three color themes to Settings > Appearance and a top bar button that cycles them.",
+      "description": "Adds three color themes to Settings > Appearance and a top bar button that cycles them.",
+      "changelog": "",
+      "permissions": [
+        "ui.themes",
+        "ui.menus",
+        "storage"
+      ],
+      "tags": [],
+      "icon": "",
+      "screenshots": [],
+      "file": "packages/com.example.themes/com.example.themes-1.0.0.tar.gz",
+      "sha256": "c3fdf29a15abf0a2f70ce8c9f7fc723cf42482ea041b848961e80477f57245f4",
+      "size": 10240,
+      "updated": "2026-11-17T16:51:27.570Z"
     },
     {
       "id": "ir.northvector.gta-vi",
