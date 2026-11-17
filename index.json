@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-17T16:51:27.571Z",
+  "generated": "2026-11-17T16:55:25.938Z",
   "app": {
-    "version": "0.3.23",
-    "published": "2026-11-15T22:01:29.458Z",
-    "notes": "",
-    "minVersion": "0.3.23",
+    "version": "0.3.24",
+    "published": "2026-11-17T16:55:25.926Z",
+    "notes": "- Add initial server plan for custom TeamSpeak server implementation\n- update Classic TS3 theme with OLED variants and custom background support",
+    "minVersion": "0.3.24",
     "windows": {
-      "file": "app/0.3.23/teamspeak-desktop.exe.gz",
+      "file": "app/0.3.24/teamspeak-desktop.exe.gz",
       "urls": [
-        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.23/teamspeak-desktop.exe.gz"
+        "https://github.com/northvector/tsdesktop-repo/releases/download/v0.3.24/teamspeak-desktop.exe.gz"
       ],
-      "sha256": "a903e861c3c5a87be78a2d395016f862f807ff5138a91e2fed0e2bb3def6a00d",
-      "size": 19198802
+      "sha256": "36d950b8b2c915d2f707ed59e46d28c8cc8c07034008857d8d2abedf7b3680bc",
+      "size": 19246596
     }
   },
   "packages": [
